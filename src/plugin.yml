@@ -1,0 +1,5 @@
+name: Protect Connection
+main: com.windows.ProtectConnection.ProtectConnection
+version: 1.0
+commands:
+  pco:
